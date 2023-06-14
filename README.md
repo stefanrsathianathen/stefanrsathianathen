@@ -11,5 +11,5 @@
 - ⚡ Fun fact: Big Fan of the :shrug: emoji
 
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanrsathianathen&count_private=true&show_icons=true&theme=cobalt)
+<!-- ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanrsathianathen&count_private=true&show_icons=true&theme=cobalt) -->
 
