@@ -5,11 +5,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **A billion projects**
-- 🌱 I’m currently learning **Go**
+- 🔭 I’m currently working on **A super secret fun project**
+- 🌱 I’m currently learning **More about distributed systems**
 - 📫 How to reach me: [@stefan_r_s](https://twitter.com/stefan_r_s) on Twitter
 - ⚡ Fun fact: Big Fan of the :shrug: emoji
 
 
-<!-- ![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanrsathianathen&count_private=true&show_icons=true&theme=cobalt) -->
+![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanrsathianathen&count_private=true&show_icons=true&theme=cobalt)
 
